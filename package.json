@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "cypress": "^10.10.0",
+    "cypress-mochawesome-reporter": "^3.2.3"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4"
+  }
+}
